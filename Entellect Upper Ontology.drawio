@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T11:46:49.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Nx9fQDreGg7u2EQY5BjW" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T12:01:54.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="UmL2z8TzqE4_xjHW2-Op" version="14.0.1" type="github">
   <diagram id="a2U_Rlq6jYlGKf6INXDq" name="Page-1">
     <mxGraphModel dx="1114" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -12,11 +12,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiIuTKYxInFzzze3MLT4-11" value="has role" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-1" target="NiIuTKYxInFzzze3MLT4-6">
+        <mxCell id="NiIuTKYxInFzzze3MLT4-11" value="has role" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.971;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-1" target="NiIuTKYxInFzzze3MLT4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NiIuTKYxInFzzze3MLT4-12" value="has role" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-1" target="NiIuTKYxInFzzze3MLT4-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-20" value="in a&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-1" target="NiIuTKYxInFzzze3MLT4-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NiIuTKYxInFzzze3MLT4-1" value="Protein" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
           <mxGeometry x="480" y="350" width="140" height="70" as="geometry" />
@@ -30,6 +37,9 @@
         <mxCell id="NiIuTKYxInFzzze3MLT4-2" value="Gene" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-21" value="in a" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-3" target="NiIuTKYxInFzzze3MLT4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NiIuTKYxInFzzze3MLT4-3" value="Protein&lt;br&gt;Variant" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
           <mxGeometry x="680" y="350" width="140" height="70" as="geometry" />
         </mxCell>
@@ -39,11 +49,18 @@
         <mxCell id="NiIuTKYxInFzzze3MLT4-4" value="Gene Variant" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
           <mxGeometry x="680" y="240" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-38" value="modulates" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-5" target="NiIuTKYxInFzzze3MLT4-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NiIuTKYxInFzzze3MLT4-5" value="Drug Target" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="140" height="70" as="geometry" />
+          <mxGeometry x="340" y="510" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NiIuTKYxInFzzze3MLT4-6" value="Biomarker" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
-          <mxGeometry x="560" y="440" width="140" height="70" as="geometry" />
+          <mxGeometry x="520" y="510" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NiIuTKYxInFzzze3MLT4-14" value="may be a&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-13" target="NiIuTKYxInFzzze3MLT4-1">
           <mxGeometry relative="1" as="geometry" />
@@ -51,11 +68,82 @@
         <mxCell id="NiIuTKYxInFzzze3MLT4-17" value="may be a&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-13" target="NiIuTKYxInFzzze3MLT4-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NiIuTKYxInFzzze3MLT4-13" value="Drug" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+        <mxCell id="NiIuTKYxInFzzze3MLT4-30" value="has a&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-13" target="NiIuTKYxInFzzze3MLT4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-13" target="NiIuTKYxInFzzze3MLT4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-42" value="causes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiIuTKYxInFzzze3MLT4-41">
+          <mxGeometry x="0.2856" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-13" value="Drug Active Ingredient" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NiIuTKYxInFzzze3MLT4-15" value="Chemical" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+        <mxCell id="NiIuTKYxInFzzze3MLT4-15" value="Chemical Compound" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-24" value="in a&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-19" target="NiIuTKYxInFzzze3MLT4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-19" value="Cell" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-27" value="in a&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-22" target="NiIuTKYxInFzzze3MLT4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-22" value="Tissue" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="490" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-28" value="in a&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-25" target="NiIuTKYxInFzzze3MLT4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-25" value="Organ" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="380" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-26" value="Organism" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-31" value="acts on a&amp;nbsp;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-29" target="NiIuTKYxInFzzze3MLT4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-29" value="Mechanism of Action" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-33" value="contains" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-32" target="NiIuTKYxInFzzze3MLT4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-32" value="Drug Marketed Product" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="355" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-35" value="owns or manufactures" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-34" target="NiIuTKYxInFzzze3MLT4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-34" value="Organization" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-32" target="NiIuTKYxInFzzze3MLT4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-37" value="Disease" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-45" value="reported in" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-39" target="NiIuTKYxInFzzze3MLT4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-46" value="measured in" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NiIuTKYxInFzzze3MLT4-39" target="NiIuTKYxInFzzze3MLT4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-39" value="Adverse Event" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-43" value="Assay" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NiIuTKYxInFzzze3MLT4-44" value="Adverse Event Report" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
