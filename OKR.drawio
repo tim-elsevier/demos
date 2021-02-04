@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T16:15:57.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="o8jPgjCN1GUJOAglIJ4n" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T09:25:44.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="tu6mp1Nttqk-nYi61M3g" version="14.0.1" type="github">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
     <mxGraphModel dx="1688" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="172" y="1100" width="143" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-12" value="ID+ by eoy" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="128" y="72" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-13" value="FAIR DaaS&lt;br&gt;2m" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="320" width="100" height="40" as="geometry" />
+          <mxGeometry x="128" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-14" value="MedInfo&lt;br&gt;1m" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="440" width="100" height="40" as="geometry" />
@@ -25,40 +25,40 @@
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VNJ8gfQmrt9jjYB3RItG-12" target="VNJ8gfQmrt9jjYB3RItG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-18" value="Workbenches" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="251" y="178" width="110" height="30" as="geometry" />
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-18" value="Workbenches by Q4" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="359" y="42" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-18" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="228" y="92" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-20" value="FAIR DaaS" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="261" y="228" width="100" height="30" as="geometry" />
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-20" value="FAIR DaaS from start" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="359" y="100" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.97;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-20" parent="1" source="VNJ8gfQmrt9jjYB3RItG-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="270" as="sourcePoint" />
+            <mxPoint x="218" y="142" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-22" value="Elsevier data" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="350" y="298" width="110" height="30" as="geometry" />
+          <mxGeometry x="359" y="200" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-22" parent="1">
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-22" parent="1" source="VNJ8gfQmrt9jjYB3RItG-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-24" value="Resnet + SD PoC" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="505" y="270" width="130" height="20" as="geometry" />
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-24" value="PoCs" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="544" y="170" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-24" parent="1" source="VNJ8gfQmrt9jjYB3RItG-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-26" value="PP/PS/RMC" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="530" y="340" width="100" height="20" as="geometry" />
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-26" value="Sell N" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="723" y="260" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-26" parent="1" source="VNJ8gfQmrt9jjYB3RItG-22">
           <mxGeometry relative="1" as="geometry">
@@ -74,31 +74,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-30" value="SD FAIR DaaS" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="775" y="500" width="110" height="20" as="geometry" />
+          <mxGeometry x="720" y="290" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-31" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-30" parent="1" source="VNJ8gfQmrt9jjYB3RItG-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-32" value="SD KG Building" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="770" y="360" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-33" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-32" parent="1" source="VNJ8gfQmrt9jjYB3RItG-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-34" value="3rd party data" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="723" y="578" width="110" height="30" as="geometry" />
+          <mxGeometry x="519" y="445" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-35" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-34" parent="1" source="VNJ8gfQmrt9jjYB3RItG-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="172" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-36" value="PhactMI clicks" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="266" y="472" width="120" height="30" as="geometry" />
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-36" value="PhactMI click revenues" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="309" y="475" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-37" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-36" parent="1" source="VNJ8gfQmrt9jjYB3RItG-14">
           <mxGeometry relative="1" as="geometry">
@@ -113,8 +105,8 @@
             <mxPoint x="740" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-41" value="Members onboarded" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="140" height="20" as="geometry" />
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-41" value="&amp;gt; 20 Members onboarded by eoy" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="700" y="522" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-42" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-41" parent="1" source="VNJ8gfQmrt9jjYB3RItG-36">
           <mxGeometry relative="1" as="geometry">
@@ -122,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-43" value="Marketing" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="415" y="502" width="90" height="20" as="geometry" />
+          <mxGeometry x="514" y="560" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-44" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-43" parent="1" source="VNJ8gfQmrt9jjYB3RItG-36">
           <mxGeometry relative="1" as="geometry">
@@ -137,12 +129,52 @@
             <mxPoint x="80" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNJ8gfQmrt9jjYB3RItG-47" value="MILE" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="620" y="608" width="60" height="20" as="geometry" />
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-47" value="MILE Go/No go by end H1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="723" y="600" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VNJ8gfQmrt9jjYB3RItG-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-47" parent="1" source="VNJ8gfQmrt9jjYB3RItG-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-50" value="Sell RWB" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="341" y="768" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-51" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-50" parent="1" source="VNJ8gfQmrt9jjYB3RItG-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-52" value="Sell PWB" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="269" y="838" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-53" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-52" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-56" value="Engage &amp;gt;2 dev partners" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="750" y="130" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-57" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-56" parent="1" source="VNJ8gfQmrt9jjYB3RItG-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-58" value="Generate marketing materials" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="705" y="190" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-59" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-58" parent="1" source="VNJ8gfQmrt9jjYB3RItG-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="641" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-62" value="FAIRification as A Service PoC" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="705" y="472" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VNJ8gfQmrt9jjYB3RItG-63" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="VNJ8gfQmrt9jjYB3RItG-62" parent="1" source="VNJ8gfQmrt9jjYB3RItG-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
