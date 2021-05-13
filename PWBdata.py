@@ -259,6 +259,7 @@ class PWBdata:
         fetch a table that links database A to database B by entity C
         """
         global link_filename
+        link_filename = None
         for item in self.linking_tables:
             if item['entity'] == entity:
                 if item['source'] == source:
@@ -267,6 +268,7 @@ class PWBdata:
                 elif item['source'] == destination:
                     if item['destination'] == source:
                         link_filename = item['loc']
+           
         if link_filename:
                     filename = self.hdfs_path + '/test/' + link_filename + '/*.csv'
                     #print(filename)
